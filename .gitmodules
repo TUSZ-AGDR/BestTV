@@ -1,0 +1,6 @@
+[submodule "sensor_utils/tactile_sensors/gelstereo"]
+	path = sensor_utils/tactile_sensors/gelstereo
+	url = https://github.com/TUSZ-AGDR/gelstereo.git
+[submodule "scripts/camera_util_api-Zarr"]
+	path = scripts/camera_util_api-Zarr
+	url = https://github.com/Hency-727/camera_util_api-Zarr.git
